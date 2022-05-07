@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plugin-shilp-admin",
+  "version": "1.0.0",
+  "description": "Vue Cli Plugin to develop Admin panels with great efficiency and speed. Automating manual process of setting up shilp components, plugins folder, icons folder, package dependency, registering global components with Environment files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-p-b-7span/shilp-admin.git"
+  },
+  "keywords": [
+    "vue-cli-plugin"
+  ],
+  "author": "Jay Bharadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-p-b-7span/shilp-admin/issues"
+  },
+  "homepage": "https://github.com/jay-p-b-7span/shilp-admin#readme"
+}
